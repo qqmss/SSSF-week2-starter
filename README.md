@@ -25,7 +25,7 @@ Cat:
   "weight": 4,
   "filename": "9434b5b5d9222ed366d22ebcc8e5c828",
   "birthdate": "2010-03-04",
-  "coords": {
+  "location": {
     "type": "Point",
     "coordinates" : [
       61.5,
